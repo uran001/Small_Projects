@@ -1,2 +1,2 @@
-# Python-Projects
-Python Projects
+# Small Projects
+ Written in Python, C, C++ etc..
